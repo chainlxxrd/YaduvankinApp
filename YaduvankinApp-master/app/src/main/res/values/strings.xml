@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CyberSchool</string>
+    <string name="start_text">"Платформа школьных киберспортивных турниров"</string>
+    <string name="enter_email">Эл.Почта</string>
+    <string name="enter_password">Пароль</string>
+    <string name="login">Войти</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="title_login">Вход в систему</string>
+    <string name="title_login2">Введите свои данные для входа</string>
+
+
+    <string name="title_register">Регистрация в систему</string>
+    <string name="title_register2">Введите свои данные для регистрации</string>
+    <string name ="enter_username">Введи своё имя пользователя</string>
+    <string name="enter_phone">Введи номер телефона</string>
+    <string name="enter_school">Введи номер школы</string>
+    <string name="enter_role">Введи должность учитель/ученик/администратор</string>
+
+    <string name="game">Лента</string>
+    <string name="profile">Профиль</string>
+
+    <string name="view">"Смотреть"</string>
+
+    <string name="search_trough_games">"Поиск по соревнованиям"</string>
+
+
+
+</resources>
