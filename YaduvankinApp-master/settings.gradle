@@ -1,2 +1,0 @@
-include ':build.gradle.kts'
-project(':build.gradle.kts').projectDir = new File(rootDir, 'YaduvankinApp-master/build.gradle.kts')
